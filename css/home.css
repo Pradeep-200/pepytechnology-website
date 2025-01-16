@@ -1,0 +1,230 @@
+#pepy2{
+    border: 1px solid black;
+    border: none;
+    color: #837f7f;
+    height: 120px;
+    width: 630px;
+    word-spacing: 100px;
+    padding-left: 700px;
+    padding-top: 30px;
+    text-align: center;
+    position: relative;
+    top: -10px;
+    margin-top: -10px;
+    position: fixed;
+}
+
+#pee_4{
+    border: 1px solid black;
+    border: none;
+    height: 60px;
+    width: 1400px;
+    position: relative;
+    right: 700px;
+    bottom: 10px;
+    background-color: #f1eeee;
+}
+
+#pepy2_1{
+    border: 1px solid black;
+    border-top: none;
+    border-bottom: none;
+    border-left: none;
+    border-right-color: #aca4a4;
+    width: 300px;
+    height: 65px;
+    position: relative;
+    left: 740px;
+    bottom: 5px;
+    padding-top: 20px;
+}
+
+#pepy2_2{
+    position: relative;
+    bottom: 65px;
+    left: 500px;
+}
+
+#peee{
+    position: relative;
+    left: 100px;
+}
+
+#peee_1{
+    position: relative;
+    left: 45px;
+}
+
+#pee_3{
+    position: relative;
+    right: 55px;
+}
+
+
+
+.pepy1_1:hover{
+    color: #fcd116;
+    cursor: pointer;
+}
+
+/* #serv{
+    position: relative;
+    left: 80px;
+    border: none;
+    background-color: white;
+    color: #837f7f;
+    cursor: pointer;
+} */
+
+#list{
+    font-family: sans-serif;
+    border: 1px solid black;
+    border: none;
+    border-radius: 10px;
+    background-color: white;
+    color: #837f7f;
+    height: 180px;
+    width: 276px;
+    line-height: 30px;
+    margin-left: 300px;
+    margin-top: 120px;
+    justify-content: end;
+}
+
+#prade_1{
+    position: relative;
+    right: 50px;
+}
+
+.icon{
+    color: #837f7f;
+}
+
+.icon:hover{
+    color: #fcd116;
+}
+
+#prade_2{
+    position: relative;
+    right: 30px;
+}
+
+#prade_3{
+    position: relative;
+    right: 40px;
+}
+
+#prade_4{
+    position: relative;
+    right: 45px;
+}
+
+#prade_5{
+    position: relative;
+    right: 50px;
+}
+
+.head{
+    position: relative;
+    left: 80px;
+    color: #837f7f;
+}
+
+#pepy3_1{
+    position: relative;
+    bottom: 5px;
+    left: 85px;
+    height: 90px;
+    width: 90px;
+}
+
+#pepy3_2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 1px solid black;
+    border: none;
+    background-color: white;
+    font-size: 15px;
+    width: 1430px;
+    position: relative;
+    right: 750px;
+    bottom: 20px;
+    word-spacing: 115px;
+}
+
+#pepy3_3{
+    position: relative;
+    left: 60px;
+   background-color: #0c0c00;
+   color: rgb(245, 240, 240);
+   height: 50px;
+   width: 110px;
+   border-radius: 5px;
+}
+
+#pepy3_3:hover{
+    background-color: #fcd116;
+    color: #0c0c00;
+    border: none;
+}
+
+#flag{
+    cursor: pointer;
+    position: relative;
+    right: 40px;
+    top: 5px;
+}
+
+#pepy4{
+    padding-top: 140px;
+}
+
+/* .camp{
+    position: relative;
+    top: 15px;
+    border: 5px solid gray;
+    padding-left: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 20px;
+}
+
+#camp1{
+    padding-right: 5px;
+    padding-left: 15px;
+    border-left: none;
+    border-right: none;
+    position: relative;
+    right: 10px;
+}
+
+#camp2{
+    padding-left: 20px;
+    padding-right: 5px;
+    position: relative;
+    right: 15px;
+    border-right: none;
+}
+
+#camp3{
+    padding-left: 20px;
+    padding-right: 15px;
+    position: relative;
+    right: 20px;
+    border-right: none;
+}
+
+#camp4{
+    padding-left: 20px;
+    padding-right: 15px;
+    position: relative;
+    right: 25px;
+    border-right: none;
+} */
+
+a{
+    text-decoration: none;
+}
+
+body{
+    font-family: sans-serif
+}

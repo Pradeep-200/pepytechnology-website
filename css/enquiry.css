@@ -1,0 +1,117 @@
+#pepy{
+    border: 1px solid black;
+    height: 650px;
+    width: 900px;
+    margin-top: 25px;
+}
+
+.quote{
+    height: 600px;
+    width: 400px;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+
+.quote1_{
+    font-size: 15px;
+    /* padding-top: -10px; */
+}
+
+#q5{
+    border-radius: 5px;
+    width: 360px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    position: relative;
+    bottom: 25px;
+}
+
+#q5:hover{
+    border: none;
+    background-color: #fcd116;
+    color: black;
+}
+
+.qu{
+    height: 600px;
+    width: 400px;
+    padding-left: 30px;
+    padding-top: 40px;
+}
+
+#quote2{
+    position: relative;
+    left: 400px;
+    bottom: 650px;
+    line-height: 30px;
+}
+
+#circle{
+    position: relative;
+    right: -840px;
+    bottom: 590px;
+    color: #aca4a4;
+}
+
+#circle:hover{
+    color: #fcd116;
+}
+
+#para1{
+    padding-right: 10px;
+    color: yellow;
+}
+
+#para2{
+    padding-right: 10px;
+    color: yellow;
+}
+
+#para3{
+    padding-right: 10px;
+    color: yellow;
+}
+
+.call{
+    border: 0.5px solid gray;
+    width: 350px;
+    padding-left: 120px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 50px;
+}
+
+#call1{
+    position: relative;
+    bottom: 60px;
+}
+
+#call2{
+    position: relative;
+    bottom: 150px;
+}
+
+#icon1{
+    position: relative;
+    top: 65px;
+    left: 25px;
+    color: #fcd116;
+}
+
+#icon2{
+    position: relative;
+    left: 25px;
+    top: -25px;
+    color: #fcd116;
+}
+
+a{
+    text-decoration: none;
+}
+
+body{
+    font-family: sans-serif
+}
+
